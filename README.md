@@ -1,3 +1,3 @@
 # Hi there! 👋
 
-I'm Matt, a passionate Software Developer from England focused on backend development, I am currently in my second year of university. As well as this I am actively working to improve my frontend capabilities to allow me to create more personal projects.
+I'm Matt, a passionate Software Developer from England focused on backend development, I am currently on my placement year at University.
