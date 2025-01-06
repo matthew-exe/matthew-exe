@@ -16,6 +16,4 @@ A passionate Software Developer from the United Kingdom, I am currently on my pl
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-exe&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
