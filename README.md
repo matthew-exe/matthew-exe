@@ -1,6 +1,6 @@
 # Hi 👋, I'm Matt!
 
-A passionate Software Developer from the United Kingdom, I am currently on my placement year working as a software engineer at a company that develops ATC simulation software.
+A passionate Software Developer from the United Kingdom, I am currently in my Final year of university studying Software Engineering
 
 ## 🚀 Languages and Tools I Use
 
